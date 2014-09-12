@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LampCP/LampConfigWin.cs">
+    <Files>
+      <File FileName="LampCP/MainWindow.cs" Line="54" Column="3" />
+      <File FileName="LampCP/LampConfigWin.cs" Line="12" Column="3" />
+      <File FileName="LampCP/app.config" Line="4" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Sharique A. Farooqui" Email="" Copyright="GPL" Company="" Trademark="" />
+</Properties>
